@@ -1,5 +1,5 @@
 pub struct Image {
-    data: Vec<u8>,
-    width: u32,
-    height: u32,
+    pub data: Vec<u8>,
+    pub width: u32,
+    pub height: u32,
 }
